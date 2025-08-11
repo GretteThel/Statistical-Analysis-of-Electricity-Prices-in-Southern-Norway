@@ -88,7 +88,7 @@ The dataset combines **economic, environmental, and market variables** from mult
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
 
